@@ -13,6 +13,7 @@ Der zweite Teil ist geheim.
 Tips gibt es unter dem dritten Punkt [Lösungen](README.md#lsung)
 
 Auf einem Debian 10 Server dauert das Script für Teil 1 ca. 20 Minuten (in meinem Script wurde auch ein detector für zip-bomben eingebaut).
+Auf einem raspi mit 8 s pro tausend extractionsversuchen dauert es ca 2 h.
 ## Hinweise
 
 <details>
