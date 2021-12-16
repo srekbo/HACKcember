@@ -7,7 +7,7 @@ Hi, hier ist meine Challenge für alle, die sich dieses Repo anschauen!
 Diese Challenge hat zwei Teile.
 
 Der erste Teil orientiert sich an der 1. HACKcember challenge. Hier sind zwei Dateien knapp über 100x verpackt!
-<br>Das Problem: Vor dem Geschenkpapier ist manchmal ein Schloss! Da dies eine CTF-Challenge ist, empfehle ich eine Passwortliste, die für CTF gemacht wurde.
+<br>Das Problem: Vor dem Geschenkpapier ist manchmal ein Schloss! Da dies eine CTF-Challenge ist, empfehle ich eine Passwortliste, die für CTF oft genutzt wird.
 
 Der zweite Teil ist geheim.
 Tips gibt es unter dem dritten Punkt [Lösungen](README.md#lsung)
