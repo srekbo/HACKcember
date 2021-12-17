@@ -12,7 +12,7 @@ Der erste Teil orientiert sich an der 1. HACKcember challenge. Hier sind zwei Da
 Der zweite Teil ist geheim.
 Tips gibt es unter dem dritten Punkt [Lösungen](README.md#lsung)
 
-Auf einem Debian 10 Server dauert das Script für Teil 1 ca. 20 Minuten (in meinem Script wurde auch ein detector für zip-bomben eingebaut).
+Auf einem Debian 10 Server dauert das Script für Teil 1 ca. 20 Minuten und auf einem Raspi (4B) ca. 40 Minuten (in meinem Script wurde auch ein detector für zip-bomben eingebaut).
 ## Hinweise
 
 <details>

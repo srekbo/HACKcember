@@ -3,7 +3,7 @@ with open("cyber-rotkaeppchen.md") as f:
 
 binary = ""
 for zeichen in ",.!\n\r\"":
-    text = text.replace(zeichen, "")
+    text = text.replace(zeichen, " ")
 for word in text.split(" "):
     if "cyber" in word.lower():
         if "cyber-" in word.lower():
