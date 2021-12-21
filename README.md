@@ -5,7 +5,9 @@ In dem Ordner 2021 sind die Ordner mit den Challenges aus diesem Jahr zu finden.
 
 Eine Verlinkung zu den Videos gibt es in den jeweiligen Ordnern!
 
-Demnächst kommt auch noch eine kleine Challenge von mir!
+Im Ordner eigene-challenge/ findet ihr eine Challenge von mir.
+
+In diesem Repository werden Bilder und Dateien von [floriandalwigk.de](https://www.floriandalwigk.de/) genutzt.
 
 Mit freundlichen Grüßen<br>
 srekbo
