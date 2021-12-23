@@ -29,8 +29,8 @@ def extract(filename):
                     break
                 except RuntimeError:
                     pass
-    except:
-        raise Exception
+    except FileNotFoundError:
+        print(FileNotFoundError)  # bei einem FileNotFoundError stoppt das Script nicht, sondern macht mit den anderen Zip-Dateien weiter
     os.remove(path)
 
 
